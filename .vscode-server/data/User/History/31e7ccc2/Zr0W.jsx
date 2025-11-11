@@ -1,4 +1,4 @@
-//add React-Bootstrap and wire up Bootstrap CSS
+
 import Container from 'react-bootstrap/Container';
 import Alert from 'react-bootstrap/Alert';
 
