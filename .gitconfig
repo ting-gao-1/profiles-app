@@ -1,0 +1,5 @@
+[user]
+	name = Ting Gao
+	email = 940388384@qq.com
+[credential]
+	helper = "!f() { /home/node/.vscode-server/bin/ddc367ed5c8936efe395cffeec279b04ffd7db78/node /tmp/vscode-remote-containers-61672484-23b4-4be5-85ad-f0dba6d0f9e3.js git-credential-helper $*; }; f"

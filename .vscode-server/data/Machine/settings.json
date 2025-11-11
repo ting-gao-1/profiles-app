@@ -1,0 +1,13 @@
+{
+	"github.copilot.chat.codeGeneration.instructions": [
+		{
+			"text": "This dev container includes `node`, `npm` and `eslint` pre-installed and available on the `PATH` for Node.js and JavaScript development."
+		}
+	],
+	"remote.portsAttributes": {
+		"3000": {
+			"label": "Hello Remote World",
+			"onAutoForward": "notify"
+		}
+	}
+}
